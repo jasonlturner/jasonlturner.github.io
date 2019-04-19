@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Webpage Currently Under Construction
 
-You can use the [editor on GitHub](https://github.com/jasonlturner/jasonlturner.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Jason Turner
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Hello! I'm Jason Turner, a first-year graduate student in the Mathematics department at the University of Wiscosnin-Madison.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
