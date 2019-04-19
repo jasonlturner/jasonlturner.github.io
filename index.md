@@ -1,6 +1,6 @@
 ## Webpage Currently Under Construction
 
-##About Me
+## About Me
 
 Hello! I'm Jason Turner, a first-year PhD student in the Mathematics department at the University of Wiscosnin-Madison. I obtained my bachelor's degree in mathematics and physics from Union College in 2018.
 
