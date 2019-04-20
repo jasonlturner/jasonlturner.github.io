@@ -1,4 +1,4 @@
-## Webpage Currently Under Construction
+### Webpage Currently Under Construction
 
 ## About Me
 
@@ -9,6 +9,7 @@ I am currently working with [Professor Samuel Stechmann](https://www.math.wisc.e
 My research interests are primarily in computational mathematics and simulating physical systems using high-performance computing (even for the small simulations I do now!)
 
 I am curently a techer's assistant in my department, although next academic year I will be funded by the [Department of Energy's Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/).
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
