@@ -6,7 +6,7 @@ Hello! I'm Jason Turner, a first-year PhD student in the Mathematics department 
 
 <img src="turner_jason_headshot.jpg" 
   alt = "Headshot" 
-  style="padding: 0 15px;float:left;width:428px;height:300px;">
+  style="padding: 0 15px;float:left;width:365px;height:263px;">
 
 I am currently working with [Professor Samuel Stechmann](https://www.math.wisc.edu/~stechmann/) on projects pertaining to parallel computing in computational climate science. In the past, I have done research in computational fluid dynamics at Los Alamos National Labs and Union College, computational topology at Union College, as well as computational algebraic number theory at California State University Channel Islands as part of their 2017 Summer REU.
 
