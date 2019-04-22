@@ -6,7 +6,7 @@ Hello! I'm Jason Turner, a first-year PhD student in the Mathematics department 
 
 <img src="turner_jason_headshot.jpg" 
   alt = "Headshot" 
-  style="float:left;width:400px;height:558px;">
+  style="padding: 0 15px;float:left;width:428px;height:300px;">
 
 I am currently working with [Professor Samuel Stechmann](https://www.math.wisc.edu/~stechmann/) on projects pertaining to parallel computing in computational climate science. In the past, I have done research in computational fluid dynamics at Los Alamos National Labs and Union College, computational topology at Union College, as well as computational algebraic number theory at California State University Channel Islands as part of their 2017 Summer REU.
 
@@ -14,6 +14,11 @@ My research interests are primarily in computational mathematics and simulating 
 
 I am curently a teacher's assistant in my department, although next academic year I will be funded by the [Department of Energy's Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/).
 
+You can see my CV [here](https://jasonlturner.github.io).
+
+## Contact Information
+
+Email: [jlturner5@wisc.edu](mailto:jlturner5@wisc.edu)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
