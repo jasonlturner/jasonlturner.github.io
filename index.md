@@ -14,7 +14,7 @@ My research interests are primarily in computational mathematics and simulating 
 
 I am curently a teacher's assistant in my department, although next academic year I will be funded by the [Department of Energy's Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/).
 
-You can see my CV [here](https://jasonlturner.github.io).
+You can see my CV [here](turner_jason_cv_2019_04.pdf).
 
 ## Contact Information
 
