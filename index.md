@@ -1,6 +1,6 @@
 ### Webpage Currently Under Construction
 
-## About Me
+### About Me
 
 Hello! I'm Jason Turner, a first-year PhD student in the Mathematics department at the University of Wiscosnin-Madison. I obtained my bachelor's degree in mathematics and physics from Union College in 2018.
 
@@ -8,7 +8,7 @@ I am currently working with [Professor Samuel Stechmann](https://www.math.wisc.e
 
 My research interests are primarily in computational mathematics and simulating physical systems using high-performance computing (even for the small simulations I do now!)
 
-I am curently a techer's assistant in my department, although next academic year I will be funded by the [Department of Energy's Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/).
+I am curently a teacher's assistant in my department, although next academic year I will be funded by the [Department of Energy's Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/).
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
