@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+This website uses the Moderna template.
 
 Template Name: Moderna
 Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
