@@ -25,7 +25,6 @@ github_username:  jasonltorchinsky
 
 # Build settings
 name: jasonltorchinsky.github.io
-highlighter: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
